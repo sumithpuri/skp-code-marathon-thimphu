@@ -26,4 +26,4 @@
 [loading ZipFileIndexFileObject[D:\jdk-8.0.0\lib\ct.sym(META-INF/sym/rt.jar/java/io/OutputStream.class)]]
 [loading ZipFileIndexFileObject[D:\jdk-8.0.0\lib\ct.sym(META-INF/sym/rt.jar/java/io/Flushable.class)]]
 [wrote RegularFileObject[src\main\java\me\sumithpuri\github\thimphu\dynamiccompilation\plugin\jdk6_DynamicJavaPlugin.class]]
-[total 33ms]
+[total 35ms]

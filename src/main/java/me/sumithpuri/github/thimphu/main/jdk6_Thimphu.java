@@ -31,6 +31,11 @@ import me.sumithpuri.github.thimphu.scriptingengine.jdk6_Scripting;
  * COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES  OR  OTHER  LIABILITY, WHETHER IN AN ACTION  OF  CONTRACT, TORT OR 
  * OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
+
+/* 
+ * You may run this main class to run all the Demo Code of the [Thimphu] Project. It demonstrates most important changes 
+ * in Java 6.
+ */
 public class jdk6_Thimphu {
 
 	public static void main(String[] args) throws Exception {
@@ -40,6 +45,7 @@ public class jdk6_Thimphu {
 		System.out.println("Project Codename      Thimphu");
 		System.out.println("Project Description   Java 6 Companion Code Samples");
 		System.out.println("Technical Blog        http://www.techilashots.com");
+		System.out.println("Technical Blog Post   https://goo.gl/iUt46h");
 		System.out.println();
 		System.out.println("------------------------------------------------------------");
 		System.out.println("[01. Scripting Engine]");
