@@ -35,7 +35,7 @@ import javax.script.ScriptEngineManager;
  */
 public class jdk6_Scripting {  
 	
-	//you may chose a simpler path as well, ideally a relative path (from the root classpath) or from properties file
+	//you may chose a simpler path as well, ideally a relative path or load from a properties file
 	private static String scriptSourcePath = "src\\main\\java\\me\\sumithpuri\\github\\thimphu"
 												+ "\\scriptingengine\\script\\jdk6_DynamicMarketScript.js";
 

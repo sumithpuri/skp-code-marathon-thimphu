@@ -34,7 +34,7 @@ import javax.tools.ToolProvider;
  */
 public class jdk6_DynamicCompilation {
 	
-	//you may chose a simpler path as well, ideally a relative path (from the root classpath) or from properties file
+	//you may chose a simpler path as well, ideally a relative path or load from a properties file 
 	private static String javaPluginPath = "src\\main\\java\\me\\sumithpuri\\github\\thimphu"
 												+ "\\dynamiccompilation\\plugin\\jdk6_DynamicJavaPlugin.java";
 
