@@ -6,7 +6,7 @@ https://github.com/sumithpuri
 <br>
 
 <p align='center'>
-<img src='https://drive.google.com/uc?export=view&id=1KjdLsDFMtaO6tLZ8dnEJYzIAryQ9Xjew'>
+<img src='https://drive.google.com/uc?export=view&id=1cQtpT4MAOE0ZXmFHhOS6hqh3yngVFi6r'>
 </p>
 
 <hr>
